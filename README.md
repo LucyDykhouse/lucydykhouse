@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React, SQL**
 
-- 👨‍💻 All of my projects are available at [lucydykhouse.github.io](lucydykhouse.github.io)
+- 👨‍💻 All of my projects are available at [lucydykhouse.github.io](lucydykhouse.github.io) **(Site in progress)**
 
 - 💬 Ask me about **MATLAB, Plotly, or LaTeX**
 
