@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucy Dykhouse</h1>
 <h3 align="center">A water resources modeler and aspiring data scientist!</h3>
 
-- 🔭 I’m currently working on **new projects every day!**
+- 🔭 I’m currently working on **projects relating to data visualization**
 
-- 🌱 I’m currently learning **React, SQL**
+- 🌱 I’m currently learning **Pandas, SQLAlchemy**
 
 - 👨‍💻 All of my projects are available at [lucydykhouse.github.io](lucydykhouse.github.io) **(Site in progress)**
 
